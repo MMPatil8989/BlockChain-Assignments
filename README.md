@@ -12,6 +12,7 @@ Expected Output :
 
 
 Javascript Assignment 2 : ------------------------------------------------------------------------------------------------------
+
 1. Write a Javascript function to check whether a triangle is equilateral,
 isosceles or scalene
 2. Write a function using switch case to find the grade of a student based
@@ -57,6 +58,7 @@ eg- 145 is a special number
 Logic- 1! + 4! + 5!= 1+24+120 i.e 145
 
 Javascript Assignment 4 : ------------------------------------------------------------------------------------------------------
+
 This assignment will help you interpret mathematical relationships both
 algebraically and geometrically.
 Create a function that takes a number (step) as an argument and returns the
@@ -68,6 +70,7 @@ matchHouses(4) ➞ 21
 matchHouses(87) ➞ 43
 
 Javascript Assignment 5 : ------------------------------------------------------------------------------------------------------
+
 1) Write a JavaScript program to get the volume of a Cylinder, Sphere and
 Cone with four decimal places using objects and classes.
 Create classes for volumes for each geometric shape which returns the
