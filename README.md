@@ -55,3 +55,14 @@ notIf the sum of the factorial of digits of a number (N) is equal to the
 number itself, the number (N) is called a special number.
 eg- 145 is a special number
 Logic- 1! + 4! + 5!= 1+24+120 i.e 145
+
+Javascript Assignment 4 : ------------------------------------------------------------------------------------------------------
+This assignment will help you interpret mathematical relationships both
+algebraically and geometrically.
+Create a function that takes a number (step) as an argument and returns the
+number of matchsticks in that step. See step 1, 2 and 3 in the image above.
+Take input from the user in the function parameter and return the output
+using the return statement.
+examplesmatchHouses(1) ➞ 6
+matchHouses(4) ➞ 21
+matchHouses(87) ➞ 43
