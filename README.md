@@ -34,7 +34,6 @@ function declaration can look like - function prime(1,100)
 
 Javascript Assignment 3 : ------------------------------------------------------------------------------------------------------
 
-Javascript Assignment 3
 1. Using for loops, write a Javascript program to output the following
 pattern -
 1
